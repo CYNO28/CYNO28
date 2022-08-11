@@ -13,9 +13,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ecOBM_4_kdvirfOiSi5e9Oz3tqdjMzIX?usp=sharing](https://drive.google.com/drive/folders/1ecOBM_4_kdvirfOiSi5e9Oz3tqdjMzIX?usp=sharing)
 
-- ⚡ LinkedIN **https://www.linkedin.com/in/dinesh-singh-95a887223/**
+-
 
 <h3 align="left">Connect with me:</h3>
+ LinkedIN **https://www.linkedin.com/in/dinesh-singh-95a887223/**
 <p align="left">
 </p>
 
